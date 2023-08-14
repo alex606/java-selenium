@@ -1,0 +1,6 @@
+org/example/pages/TagsPage.class
+org/example/Main.class
+org/example/pages/HomePage.class
+org/example/utils/WaitUtils.class
+org/example/drivers/WebDriverConfig.class
+org/example/utilities/UIHelper.class
